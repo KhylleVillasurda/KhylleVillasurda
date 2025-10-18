@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://github.com/KhylleVillasurda/KhylleVillasurda/blob/daa23ce199db6949b607ebfb241acdcd43e14182/gitImage.png" width="200"/>
+</p>
+
 # Hi there 👋 I'm Khylle Villasurda
 
-I'm a student passionate about coding, especially with **Rust**! I have hands-on experience in web development using the **MERN stack** (MongoDB, Express, React, Node.js) and some background in software programming with **Java** and **C#**.
+I'm a student passionate about coding, especially with **Rust**! I have experience developing and prototyping with **Java** and **C#**
 
 ## 🚀 Favorite Project
 **NoteQuarry**  
@@ -9,7 +13,6 @@ A desktop note-taking app tailored specifically for my workflow and needs.
 
 ## 🛠️ Skills
 - Rust programming
-- MERN stack web development
 - Java & C# software development
 
 ## 🎮 Hobbies
