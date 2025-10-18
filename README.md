@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Khylle Villasurda
 
-<!--
-**KhylleVillasurda/KhylleVillasurda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about coding, especially with **Rust**! I have hands-on experience in web development using the **MERN stack** (MongoDB, Express, React, Node.js) and some background in software programming with **Java** and **C#**.
 
-Here are some ideas to get you started:
+## 🚀 Favorite Project
+**NoteQuarry**  
+A desktop note-taking app tailored specifically for my workflow and needs.  
+*(Ask me about it or check the repo!)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Rust programming
+- MERN stack web development
+- Java & C# software development
+
+## 🎮 Hobbies
+- Coding in Rust for fun
+- Playing Minecraft in my spare time
+
+---
+
+Feel free to connect or check out my projects!
