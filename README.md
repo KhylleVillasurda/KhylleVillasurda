@@ -71,8 +71,8 @@ root@freakyvader:~/projects$ cat RU-AniShelf/README.md
   [STACK]    Rust · TypeScript · Tauri · Vite
   [STATUS]   In Progress 🔧
   [DESC]     A personal desktop app to organize downloaded
-             anime — built because chaos in torrent folders
-             is unacceptable.
+             anime — built from the reason of cluttered folder
+             from torrent downloads.
 
   > git clone https://github.com/KhylleVillasurda/RU-AniShelf
   Cloning into 'RU-AniShelf'... done.
@@ -90,8 +90,7 @@ root@freakyvader:~/projects$ cat ExeQueue-Web/README.md
   [PROJECT]  ExeQueue-Web (Forked)
   [STACK]    JavaScript
   [STATUS]   Completed ✅
-  [DESC]     A school project — web-based execution queue
-             system. Shipped it. Passed it. Moved on.
+  [DESC]     A school project — only did the pagination though.
 
   > git clone https://github.com/KhylleVillasurda/ExeQueue-Web-Forked
   Cloning into 'ExeQueue-Web-Forked'... done.
