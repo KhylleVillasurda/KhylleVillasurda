@@ -38,6 +38,6 @@
 
 <p align="center"><b><i>I use linux btw</i></b></p>
 
-<p>Rust is the future</p>p
+<p>Rust is the future</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F5C400&height=100&section=footer" alt="" />
