@@ -12,7 +12,7 @@
 
 <h3 align="center">I like Space Marines! and I like the Imperial Fists.</h3>
 
-<p>Imperial Fist might be boring for some fans but I like the fact they are the literal walls of the imperium.</p>p
+<p>Imperial Fist might be boring for some fans but I like the fact they are the literal walls of the imperium.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F5C400&height=2" alt="" />
 
